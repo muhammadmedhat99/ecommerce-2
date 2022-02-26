@@ -337,7 +337,6 @@ label {
 }
 
 .productButton {
-    position: relative;
     float: right;
     padding: 10px 20px;
     background-color: black;
@@ -346,7 +345,6 @@ label {
     cursor: pointer;
     border: none;
     border-radius: 4px;
-    z-index: 9999;
 }
 
 .productButton:hover {
